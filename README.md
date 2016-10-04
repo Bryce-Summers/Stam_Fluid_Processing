@@ -11,3 +11,7 @@ Do the same with the right button depressed for black fluid.
  
 # Web Version
 Bryce is working on a web based fluid simulator that can be found [here.](https://github.com/Bryce-Summers/SVE_Fluids).
+
+![Fluid Example Image 1](/Screenshots/i1.png)
+![Fluid Example Image 2](/Screenshots/i2.png)
+![Fluid Example Image 3](/Screenshots/i3.png)
